@@ -6,6 +6,7 @@ Homework: Recursive Array Combining
 Chapter 11 Practice Problem 7
  */
 
+// Solved using a standard looping approach
 
 public class ArrayCombinations
 {
